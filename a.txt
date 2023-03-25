@@ -1,0 +1,3 @@
+I want to get words out of this file.
+This is the second line.
+I am testing if it will read more than one line.
